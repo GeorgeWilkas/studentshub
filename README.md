@@ -9,7 +9,7 @@
 ## Презентация и демонстрация
 [гугл диск]()
 ## Стек технологий
- - [Apache] (https://httpd.apache.org/)
+ - [Apache](https://httpd.apache.org/)
  - [PHP](https://www.php.net/)
  - [MySQL](https://www.mysql.com/)
  - LMS система [Moodle](https://moodle.org/?lang=ru)
